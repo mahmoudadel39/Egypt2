@@ -1,0 +1,25 @@
+.carousel-item img{
+    height: 100vh;
+}
+.carousel-caption{
+    background-color: rgba(39, 39, 39, 0.637);
+    border-radius: 30px;
+}
+.carousel-caption h5,.carousel-caption p{
+font-size: 40px;
+}
+.container{
+ text-align: center;
+
+
+}
+.container h2{
+   padding-bottom:30px ;
+    margin: 100px;
+    color: rgb(3, 3, 129);
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 700px;
+   border-bottom: 1px solid gray;
+   
+}
